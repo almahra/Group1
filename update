@@ -1,0 +1,13 @@
+introQ = ["What type of restaurant you are looking for? "]
+introP = ["Italian restaurant", "Indian restaurant", "International restaurant"]
+answer=[introP]
+
+answers = int(input("Choose from the following options [first, second or third]: "))
+if answer == Italian restaurant
+        print(“Prego’s restaurant good choice for you”)
+elif answer == Indian restaurant
+        Print(“Asha’s restaurant is great choice for you”)
+Elif answer == International restaurant
+        Print(“The cheesecake factory best choice”)
+else:
+        Print(“Sorry nothing to do”)
